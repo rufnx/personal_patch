@@ -19,7 +19,7 @@ fi
 # ===== UPLOAD (GoFile with fallback servers) =====
 link=""
 
-for server in store1 store2 store3 store4; do
+for server in store2 store3 store4; do
   echo "Uploading to $server.gofile.io ..."
   response=$(curl -s -F "file=@$FILE" "https://$server.gofile.io/contents/uploadfile")
 
