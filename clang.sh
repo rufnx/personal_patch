@@ -11,7 +11,7 @@ declare -A CLANG_MAP=(
   [17]=b1a2c3d4e5f697887766554433221100ffeeddcc
   [18]=ccddeeff00112233445566778899aabbccddeeff
   [19]=11223344556677889900aabbccddeeff00112233
-  [20]=8899aabbccddeeff00112233445566778899aabb
+  [20]=5299c17a7c78cfb703e3830ed02b74fb8fed77f9
   [21]=abcdefabcdefabcdefabcdefabcdefabcdefabcd
   [22]=167e11df8c330bced88cdf5808f61f41d9eab330
 )
