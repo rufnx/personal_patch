@@ -4,6 +4,8 @@ set -e
 BASE_URL=https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive
 
 declare -A CLANG_MAP=(
+  [17]="11d7611697961bc254ba4cd18aa3123d7e1451b5:r522817"
+  [18]="ad2f340b3128c57304c55f16b05ef7738cb334aa:r530567"
   [19]="f45722cea929f932b08731a8d2d0a0737f1552cc:r536225"
   [20]="5299c17a7c78cfb703e3830ed02b74fb8fed77f9:r547379"
 )
