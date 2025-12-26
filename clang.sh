@@ -39,3 +39,5 @@ fi
 
 $CLANG_DIR/bin/clang --version || true
 }
+
+clome "$@"
